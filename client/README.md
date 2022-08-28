@@ -1,8 +1,8 @@
 # E - Commerce App
 
-##Photos
+## Photos
 
-
+<img alt="screen-shots" src="https://github.com/erenduman2/e-commerce-app-react/blob/main/photo/ppppp.png?raw=true"></img>
 
 ## Usage
 
