@@ -1,12 +1,20 @@
-# Getting Started with Create React App
+# E - Commerce App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Usage
 
-## Available Scripts
+First, in the both backend and client directory, you can run:
 
-In the project directory, you can run:
+### `npm install`
 
-### `npm start`
+Then, in backend directory, you can run:
+
+### `yarn dev`
+
+Finally, in client directory, you can run:
+
+### `yarn start`
+
+Project will start in develeopment mode. 
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
