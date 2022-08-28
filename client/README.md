@@ -2,7 +2,7 @@
 
 ## Photos
 
-<img style="size: 50%" alt="screen-shots" src="https://github.com/erenduman2/e-commerce-app-react/blob/main/photos/1.png?raw=true"></img>
+<img style="width: 150px;" alt="screen-shots" src="https://github.com/erenduman2/e-commerce-app-react/blob/main/photos/1.png?raw=true"></img>
 
 ## Usage
 
