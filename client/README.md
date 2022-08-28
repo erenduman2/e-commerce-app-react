@@ -10,7 +10,7 @@ First, in the both backend and client directory, you can run:
 
 ### `npm install`
 
-Then, in backend directory, you can run:
+* Then, in backend directory, you can run:
 
 ### `yarn dev`
 
