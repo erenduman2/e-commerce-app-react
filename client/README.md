@@ -20,7 +20,9 @@ Finally, in client directory, you can run:
 
 Project will start in develeopment mode. 
 
-##Tools
+## Tools
+
+
 
 React.js
 Ant Design
@@ -29,7 +31,7 @@ Chakra-Ui
 Context API
 Formik
 
-##Features
+## Features
 
 Login
 Register
